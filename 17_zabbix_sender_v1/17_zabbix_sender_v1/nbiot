@@ -1,0 +1,30 @@
+MQTT, interface de rede tcp/ip
+manual
+pro
+iot acelerator + backend ericson
+
+aws - servidor
+
+alison
+
+
+SRS: monitoramento + wifi + app cel + gw nbiot, postes zigbee, lora, wisun, Datacenter nuvem + local
+
+
+
+Boa noite pessoal, tivemos uma reunião do projeto e nela discutimos algumas soluções, divididos algumas frentes de trabalho e definimos responsáveis.
+As frentes e os responsáveis são:
+[Santa Rita]: Victor e Rodrigo Hilários
+[Caxambú]: José Rodrigo e Éverton
+[Piraí]: Thiago Bueno e Ensley
+
+Seguindo nessa linha peço aos citados que se manifestem caso seja preciso fazer alguma mudança e os que não foram citados são bem vindos em qualquer frente de trabalho.
+O objetivo é entregar essa demanda com qualidade, para isso as seguintes atividades se tornam necessárias:
+
+1) Revisão ou levantamento de requisitos ausentes: Principalmente para SRS.
+2) Associação das tecnologias citadas no texto com produtos comerciais, inclui baixar datasheets e contactar fornecedores.
+3) Revisão dos textos e coerência das ideias propostas.
+
+Aguardamos posicionamento e dúvidas por aqui.
+
+Abraços.

@@ -1,0 +1,19 @@
+docker run --name zabbix-appliance -t       -p 10051:10051       -p 80:80       -d zabbix/zabbix-appliance:latest
+docker run --name zabbix-appliance -t       -p 10051:10051       -p 80:80       -d zabbix/zabbix-appliance:iot01
+docker run --name zabbix-appliance-iot -t       -p 10051:10051       -p 80:80       -d zabbix/zabbix-appliance:iot01
+
+docker ps - list containers
+docker stop - stop container
+docker exec -it zabbix-appliance-iot /bin/bash - entrar no container
+
+
+
+#References
+
+https://docs.docker.com/engine/reference/commandline/commit/#commit-a-container-with-new-configurations
+https://zabbix.tips/monitor-temperature-and-humidity-zabbix/
+https://bigdanzblog.wordpress.com/test/#esp8266
+https://bigdanzblog.wordpress.com/2016/02/07/esp8266-and-using-the-arduino-ide/
+https://www.zabbix.com/documentation/3.4/manual/installation/containers
+https://hub.docker.com/r/zabbix/zabbix-appliance/
+https://slimwiki.com/ifmg
